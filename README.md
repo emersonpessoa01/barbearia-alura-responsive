@@ -5,7 +5,7 @@
 
 ## Pré-visualização:
 
-[barbearia-alura-responsive](https://barbearia-alura-responsive.netlify.app/)
+[barbearia-alura-responsive](https://barbearia-alura-navbar.netlify.app/)
 
 <div align="center"><img src="img/barber-alura_2.gif" width=auto>
 </div>
