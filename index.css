@@ -226,7 +226,6 @@ section {
   display: flex;
   align-items: center;
   justify-content: center;
-  
 }
 
 @media (max-width: 200px) {
@@ -437,12 +436,13 @@ footer {
   padding: 20px 0;
 }
 footer img {
-  width: 15%;
   display: inline-block;
+  width: 25vh;
+  object-fit: cover;
 }
 
 .copyright {
   color: #fff;
-  font-size: 12px;
+  font-size: 0.75rem;
   margin: 10px 0 0;
 }
