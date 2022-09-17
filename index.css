@@ -59,7 +59,7 @@ header {
 }
 nav {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   align-items: center;
   font-family: "Lexend", "Lato", san-serif;
   /* background: #23232e; */
