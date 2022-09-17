@@ -60,6 +60,7 @@ nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  padding: 0.5rem 2%;
   font-family: "Lexend", "Lato", san-serif;
   /* background: #23232e; */
   background: linear-gradient(to right, #3f2d59, #6610f2, #3f2d59);
@@ -185,8 +186,8 @@ nav {
   .nav-list.active {
     transform: translateX(0);
   }
-  footer .copyright{
-    font-size: .5rem;
+  footer .copyright {
+    font-size: 0.5rem;
   }
 }
 
