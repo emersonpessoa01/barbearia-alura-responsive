@@ -186,6 +186,9 @@ nav {
   .nav-list.active {
     transform: translateX(0);
   }
+  footer .copyright{
+    font-size: .5rem;
+  }
 }
 
 @media (max-width: 240px) {
@@ -440,7 +443,6 @@ footer img {
   width: 15%;
   object-fit: cover;
 }
-
 .copyright {
   color: #fff;
   font-size: 0.75rem;
