@@ -437,7 +437,7 @@ footer {
 }
 footer img {
   display: inline-block;
-  width: 25vh;
+  width: 15%;
   object-fit: cover;
 }
 
